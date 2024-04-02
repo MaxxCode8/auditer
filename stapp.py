@@ -244,4 +244,3 @@ if __name__ == "__main__":
 
 
 # - Manully set Start and End Task Time ⭐⭐⭐⭐⭐
-# - Specific Entry Deletion ISSUE 🔴 : Deletes Entire Database 
